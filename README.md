@@ -13,3 +13,9 @@ All my React projects.
 - Tech: React
 - Repo: https://github.com/sewak07/portfolio
 - Live: https://sewak07.github.io/portfolio/
+
+### E-sport Website
+- Description: Developed an E-sport tournament Website for the client.
+- Tech: React, tailwind css
+- Repo: https://github.com/sewak07/Free-fire
+- Live: https://sewak07.github.io/Free-fire/
