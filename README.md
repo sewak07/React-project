@@ -19,3 +19,8 @@ All my React projects.
 - Tech: React, tailwind css
 - Repo: https://github.com/sewak07/Free-fire
 - Live: https://sewak07.github.io/Free-fire/
+
+### osoaa Nepal frontend
+- Description: A modern, responsive frontend for OSOAA Nepal, a wellness and nutrition brand, built with React and Tailwind CSS. Features a clean UI for exploring wellness products, browsing product details, and delivering a seamless shopping experience across desktop and mobile devices.
+- Tech : React, tailwind css
+- Repo: https://github.com/sewak07/osoaa-frontend
